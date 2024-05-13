@@ -1,5 +1,5 @@
 - #Commoner 
 - Status: Alive, in Waterdeep
-- [Onvyr](NPCs/01_General/Onvyr.md)'s hot ass mf husband
+- [Onvyr](Onvyr.md)'s hot ass mf husband
 - Human
 - Helps Onvyr run his library

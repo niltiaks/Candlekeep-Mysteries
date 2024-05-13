@@ -6,4 +6,3 @@
 - 18-19 years old
 - Charlotte and her late husband were her godparents prior to her adoption
 - Loves hunting, was gifted two pistols by the Reids/from SFC for her 18th birthday
-- 
