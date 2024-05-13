@@ -1,0 +1,3 @@
+- Evil druid
+- Burning everything??
+- Teamed up with [Vitari](Vitari.md)
