@@ -1,0 +1,10 @@
+- [[Sylvia]]'s cousin on her mother's ([[Evelyn]]) side
+- 22-23 years old
+- [[Max]] and [[Lillian]]'s brother
+- Middle child of the D'arlington family
+- Mother is [[Charlotte]]
+- Plans on going on a solo grand tour around Eastern Faraway, maybe even as far as the Sword Coast
+- Has middle child syndrome real bad
+- Trained in the sword
+- Seemed uncommonly withdrawn lately (info came from Rosalinda)
+- Became very close friends with [[Adriel]] at the wedding

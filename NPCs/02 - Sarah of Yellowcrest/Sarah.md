@@ -1,0 +1,5 @@
+- #Commoner
+- Status: Deceased
+- One of the servants of the Yellowcrest house ([[Viallis]])
+- Lady [[Maria]], Viallis' wife empathized with Sarah's lack of education and taught her to write
+- Had a romantic relationship with a young squire named [[Vecken]]

@@ -1,0 +1,5 @@
+- Rock gnome
+- Head engineer for Salvatore Firearm Company
+- Master tinkerer
+- Has a large family but his favourite granddaughter is [[Jennie]]
+- [[Sylvia]] views him as an uncle

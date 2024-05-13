@@ -1,0 +1,4 @@
+- [[Adriel]]'s son
+- Died after [[Ronorin]] cast a blight upon the Summer Court of the Feywild
+- Sister is
+- Mother is [[Gormal]]

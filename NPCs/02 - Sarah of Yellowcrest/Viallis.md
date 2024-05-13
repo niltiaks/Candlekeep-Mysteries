@@ -1,0 +1,10 @@
+- #Commoner
+- Status: Deceased
+- Lord Viallis Yellowcrest
+- Patriach of the Yellowcrest house
+- His wife ([[Maria]]), three chuldren, and the house's four servants were all murdered roughly five years ago
+- [[Sylvia]] and other nobility speculated that cult activity was related, but details of the killings were never revealed - no suspects were ever identified or charged.
+- Left Waterdeep after this to Daggerford to live in seclusion
+- Family owned a few tanneries, leatherworker shops, and cobbler shops in the Trades Ward of Waterdeep
+- Closest business associate was an elf named [[Faerl]]. Records indicated Faerl visited twice per tenday.
+- [[Sarah]] told the party that Lord Viallis killed his family and staff with some evil ritual, sacrificing them for something

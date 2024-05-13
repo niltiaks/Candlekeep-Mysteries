@@ -1,0 +1,8 @@
+- Youngest child of the Reid family
+- Married to Isabelle
+- Has two sons, Timmy and Tommy, both about 6 years old
+- [[Evelyn]]'s pride and joy, [[Salvatore]]'s baby boy
+- Was previously a captain of the Waterdeep City Guard but was fired after the events of the Sylvia Backstory quest
+- Now is on house arrest at the Reid manor
+- Working on repairing relationship with sister [[Sylvia]]
+- When he was a kid, he accidentally shot [[Jimin]]'s granddaughter in the arm, and now Jennie permanently wears a prosthetic

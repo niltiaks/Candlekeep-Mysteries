@@ -1,0 +1,3 @@
+- Member of the Harper's Guild
+- Friend of [[Onvyr]]'s
+- Hired the party for the quest #WisteriaVale

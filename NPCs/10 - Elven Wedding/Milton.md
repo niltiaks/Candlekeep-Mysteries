@@ -1,0 +1,5 @@
+- Manservant of [[Sylvia]]'s cousin on her mother's side
+- [[Max]]'s personal manservant
+- Always immaculately dressed
+- As handsome as the devil himself
+- Black hair, red eyes

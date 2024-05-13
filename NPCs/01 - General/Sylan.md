@@ -1,0 +1,4 @@
+- Full name Sylan Yaeldrin
+- Met during #Forge-of-Fury quest in Mirabar
+- Small elven woman with dark hair, has a big ass crush on [[Adriel]]
+- On a few occasions has taken care of [[Scooby]] and [[Shaggy]] while the party was out of town

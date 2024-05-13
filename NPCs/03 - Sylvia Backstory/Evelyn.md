@@ -1,0 +1,7 @@
+- Wife of [[Salvatore]]
+- Mother of [[Caspian]] and [[Sylvia]]
+- Maiden name is D'arlington, comes from an extremely wealthy family
+- Her family initially funded SFC to kickstart the business
+- Has a stick up her ass
+- Hates her daughter
+- First cousins with [[Charlotte]]'s late husband, the previous Lord D'arlington

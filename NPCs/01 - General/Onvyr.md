@@ -1,0 +1,8 @@
+- #Commoner 
+- Status: Alive, in Waterdeep
+- Owns a platinum mine
+- Elven male, with a pet flying monkey named Stinker
+- Familiar with [[Sylvia]] and her family
+- Partner's name is [[Duke]], human male
+- Owns a library
+- Quest giver for the party ([[India]], [[Adriel]], [[Stalfor]])

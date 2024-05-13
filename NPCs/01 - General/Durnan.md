@@ -1,0 +1,3 @@
+- Owner/proprietor of the Yawning Portal
+- Has established relationships with [[Sylvia]], [[India]], [[Stalfor]], and [[Adriel]] as they are regulars
+- [[Sylvia]] and [[Adriel]] are trying to hook him up with [[India]]!!!!

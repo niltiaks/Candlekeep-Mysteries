@@ -1,0 +1,3 @@
+- [[Jimin]]'s granddaughter
+- 18 years old, working full time at the factory under her grandfather's mentorship
+- Lost her arm in a firearm incident as children when touring the factory with a young [[Caspian]] and [[Sylvia]], has a prosthetic now

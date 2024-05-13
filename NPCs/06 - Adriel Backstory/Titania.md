@@ -1,0 +1,5 @@
+- #Deity
+- Status: Alive, in the Feywild
+- Queen of the Summer Court in the Feywild
+- Worshipped by [[Adriel]]
+- Sent Adriel to Faerun on a personal quest
