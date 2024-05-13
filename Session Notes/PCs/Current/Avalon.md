@@ -1,4 +1,4 @@
-- Party members: [[India]] [[Stalfor]] [[Adriel]] 
+- Party members: [[India]] [Stalfor](PCs/Current/Stalfor.md) [[Adriel]] 
 - Before joining skinny legends, was part of an adventuring party where they were attacked on their way back from a quest, were attacked and killed by [[Aerryn]] and [[Vitari]], [[Avalon]] was left alive as the example
 - [[Rowan]] is ex-fiance
 - Blackstaff apprentice under [[Vajra]]

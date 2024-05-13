@@ -1,4 +1,4 @@
-Party members: [[Sylvia]] [[Vitari]] [[Basil]] [[Stalfor]] [[Adriel]] 
+Party members: [[Sylvia]] [[Vitari]] [[Basil]] [Stalfor](PCs/Current/Stalfor.md) [[Adriel]] 
 
 - Class: #Monk, way of the Druken Fist
 - Went to university for archaeology in Luskan

@@ -1,2 +1,2 @@
-- [[Stalfor]]'s father
+- [Stalfor](PCs/Current/Stalfor.md)'s father
 - [[Maria S.]]'s husband

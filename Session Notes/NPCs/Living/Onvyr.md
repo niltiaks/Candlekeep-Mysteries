@@ -5,4 +5,4 @@
 - Familiar with [[Sylvia]] and her family
 - Partner's name is [[Duke]], human male
 - Owns a library
-- Quest giver for the party ([[India]], [[Adriel]], [[Stalfor]])
+- Quest giver for the party ([[India]], [[Adriel]], [Stalfor](PCs/Current/Stalfor.md))

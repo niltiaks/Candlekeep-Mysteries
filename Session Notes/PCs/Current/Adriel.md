@@ -1,4 +1,4 @@
-Party members: [[Sylvia]] [[India]] [[Stalfor]]
+Party members: [[Sylvia]] [[India]] [Stalfor](PCs/Current/Stalfor.md)
 
 - Race: ??? Looks Human
 - Class: Life #Cleric of the Queen of the Summer Court ([[Titania]]), #Druid
