@@ -15,7 +15,7 @@ Party members: [[Sylvia]] [[Vitari]] [[Basil]] [Stalfor](PCs/Current/Stalfor.md)
 	- Fuckin bitch
 - Middle child of 5 kids; three sisters and one brother
 	- [Rita](NPCs/Living/Rita.md) (second eldest) adventures too, ranger(?), said she does archery.
-	- Brother's name is [[Porter]] and apparently called her bones for a week
+	- Brother's name is [Porter](NPCs/Living/Porter.md) and apparently called her bones for a week
 - According to [Rita](NPCs/Living/Rita.md), [[India]] wasn't always into brewing.
 	- One time when she was young she dug up berries and snuck them into a brew their father was working on
 	- That batch got sent out and the folks who drank from the batch may have been poisoned
