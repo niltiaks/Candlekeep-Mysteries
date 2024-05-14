@@ -1,6 +1,6 @@
 - #Commoner
 - Status: Deceased
-- Business partner of [[Viallis]]
+- Business partner of [Viallis](NPCs/Deceased/Viallis.md)
 - Was kidnapped and murdered by [[Adriel]]'s and his wolves outside of Sylvia's home
 - Wore big red hat and tiny ear hats, stolen by Adriel after his murder
 - His horses [[Scooby]] and [[Shaggy]] were stolen/adopted by Adriel

@@ -1,5 +1,5 @@
 - #Commoner 
 - Status: Deceased
-- [[Viallis]] wife
+- [Viallis](NPCs/Deceased/Viallis.md) wife
 - Came from a poor family and empathized with Sarah's lack of education
 - Taught [[Sarah]] how to read and write and gifted her a journal that the party found during the quest
