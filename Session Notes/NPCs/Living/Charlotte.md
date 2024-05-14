@@ -1,7 +1,8 @@
- - [[Sylvia]]'s cousin on her mother's ([[Evelyn]]) side
+ - [[Sylvia]]'s cousin (distantly) on her mother's ([[Evelyn]]) side
  - 53-54 years old
- - Lilac gown, long gloves, gold jewellry
+ - Lilac gown, long gloves, gold jewellery
  - Fairly reserved, keeps to herself
- - Husband died a few years after Lillian was adopted
+ - Husband died a few years after [Lillian](NPCs/Living/Lillian.md) was adopted
 	 - Was an accident when the children were young
 	 - Charlotte never remarried
+ - Other children: [Sirbastien](NPCs/Living/Sirbastien.md), [Max](NPCs/Deceased/Max.md)

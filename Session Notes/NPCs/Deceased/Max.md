@@ -3,7 +3,7 @@
 - [[Sylvia]]'s cousin on her mother's ([[Evelyn]]) side
 - Engaged to [Lysandrea](NPCs/Living/Lysandrea.md)
 - Oldest child of [Charlotte](NPCs/Living/Charlotte.md)
-- Two younger siblings, [Sirbastien](NPCs/Living/Sirbastien.md) and [[Lillian]]
+- Two younger siblings, [Sirbastien](NPCs/Living/Sirbastien.md) and [Lillian](NPCs/Living/Lillian.md)
 - Manservant is a tiefling male named [Milton](NPCs/Living/Milton.md) Fiends
 - Might have feelings for his ex, [Galianne](NPCs/Living/Galianne.md), who is also Lysandrea's mother
 	- [James](NPCs/Living/James.md) told the party this rumour
