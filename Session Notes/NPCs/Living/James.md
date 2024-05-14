@@ -1,6 +1,6 @@
 - #Bard
 - Status: Alive
-- [[James]] Bouffay  
+- James Bouffay  
 - Elven male
 - Taking a break from his tour with his band to attend the wedding
 - Now performs for the D'arlingtons often ([Max](NPCs/Deceased/Max.md) [[Charlotte]] [[Sirbastien]] [[Lillian]])

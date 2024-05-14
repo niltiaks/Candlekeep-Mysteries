@@ -6,8 +6,8 @@ Party members: [[Sylvia]] [[Vitari]] [[Basil]] [Stalfor](PCs/Current/Stalfor.md)
 - [Charles](NPCs/Living/Charles.md) is a very good childhood friend of India's, perhaps ex-lover???
 	- Ran around a lot as children
 	- Still best friends
-- [[James]] Bouffay is a college friend
-	- After college [[James]] went to bard school
+- [James](NPCs/Living/James.md) Bouffay is a college friend
+	- After college [James](NPCs/Living/James.md) went to bard school
 - [Beth-Ann](NPCs/Living/Beth-Ann.md) is arch nemesis from Archaeology school
 	- Beth-Ann attempted to frame India for destruction of an ancient artifact (dagger carved out of bone)
 	- A crime of passion? No. Retaliation. India was bouncer at the campus tavern, and on several occasions had to escort Beth-Ann and her terrible friends out.

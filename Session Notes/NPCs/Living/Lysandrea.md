@@ -3,6 +3,6 @@
 - Engaged to [Max](NPCs/Deceased/Max.md)
 - Mother's name is [[Galianne]] Isillionthe
 - Father died in a tragic accident choking on food at home while dining with Galianne
-- ==Family recently had a falling out with higher wood elven nobility== (rumour heard from James)
+- Family recently had a falling out with higher wood elven nobility== (rumour heard from [James](NPCs/Living/James.md))
 - Curly brown hair
 - Best friends with [[Rosalinda]]
