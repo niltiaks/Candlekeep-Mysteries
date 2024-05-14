@@ -4,4 +4,4 @@
 - Flowers braided in her pink hair
 - Shittered (in a good way)
 - Doesn't like how Max talks to some of "the help"
-- Told India that Max was involved in a scandalous affair, but "we didn't hear it from her"
+- Told India that [Max](NPCs/Deceased/Max.md) was involved in a scandalous affair, but "we didn't hear it from her"

@@ -1,6 +1,6 @@
 - Half-orc
 - [[Sylvia]]'s cousin on her mother's ([[Evelyn]]) side
-- [[Max]] and [[Sirbastien]]'s adopted sister
+- [Max](NPCs/Deceased/Max.md) and [[Sirbastien]]'s adopted sister
 - Youngest child of the D'arlington family
 - Mother is [[Charlotte]]
 - 18-19 years old

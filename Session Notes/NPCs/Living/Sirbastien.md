@@ -1,6 +1,6 @@
 - [[Sylvia]]'s cousin on her mother's ([[Evelyn]]) side
 - 22-23 years old
-- [[Max]] and [[Lillian]]'s brother
+- [Max](NPCs/Deceased/Max.md) and [[Lillian]]'s brother
 - Middle child of the D'arlington family
 - Mother is [[Charlotte]]
 - Plans on going on a solo grand tour around Eastern Faraway, maybe even as far as the Sword Coast
