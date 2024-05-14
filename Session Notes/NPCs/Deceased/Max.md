@@ -1,7 +1,7 @@
 - Full name is **Lord Maximillian D'arlington**
 - 27-28 years old
 - [[Sylvia]]'s cousin on her mother's ([[Evelyn]]) side
-- Engaged to [[Lysandrea]]
+- Engaged to [Lysandrea](NPCs/Living/Lysandrea.md)
 - Oldest child of [[Charlotte]]
 - Two younger siblings, [[Sirbastien]] and [[Lillian]]
 - Manservant is a tiefling male named [[Milton]] Fiends

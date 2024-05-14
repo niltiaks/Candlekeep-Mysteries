@@ -3,9 +3,9 @@
 - Thalgion Isillionthe
 - Elegantly dressed, long blonde hair kept very neat
 - Wears a silver circlet indicating he is a member of nobility
-- Distant cousin of [[Lysandrea]]
-- Closer to [[Galianne]] than he is to [[Lysandrea]]
-- ==Not the conversational type, according to Lys
-- ==Stays at home, doesn't travel much
+- Distant cousin of [Lysandrea](NPCs/Living/Lysandrea.md)
+- Closer to [[Galianne]] than he is to [Lysandrea](NPCs/Living/Lysandrea.md)
+	- Not the conversational type, according to Lys
+	- Stays at home, doesn't travel much
 - Not from the Northern Faraway region but closer to the main wood elven court
 - Autistic

@@ -1,5 +1,5 @@
 - Pink haired gnome
-- Close friends with [[Lysandrea]], also old friends with [[India]]
+- Close friends with [Lysandrea](NPCs/Living/Lysandrea.md), also old friends with [[India]]
 - Yellow ballgown
 - Flowers braided in her pink hair
 - Shittered (in a good way)
