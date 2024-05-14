@@ -6,6 +6,6 @@
 - Both parents died when he was a teenager, worked odd jobs trying to keep a roof over his head
 - As a young man, worked in design and production of cannons and wondered if it would be possible to design a "handheld cannon"
 - Designed the first firearms known to Waterdeep and perhaps even the Sword Coast, alongside his long-time friend Jimin
-- [[Evelyn]] D'arlington's family caught wind of this and provided all necessary funding to kickstart SFC
+- [Evelyn](NPCs/Living/Evelyn.md) D'arlington's family caught wind of this and provided all necessary funding to kickstart SFC
 - During this time Sal and Eve found themselves in an arranged marriage, and fell in love
 - Had their first child, [[Sylvia]], followed by [Caspian](NPCs/Living/Caspian.md) a couple years later

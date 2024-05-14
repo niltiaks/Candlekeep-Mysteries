@@ -1,4 +1,4 @@
-- [[Sylvia]]'s cousin on her mother's ([[Evelyn]]) side
+- [[Sylvia]]'s cousin on her mother's ([Evelyn](NPCs/Living/Evelyn.md)) side
 - 22-23 years old
 - [Max](NPCs/Deceased/Max.md) and [Lillian](NPCs/Living/Lillian.md)'s brother
 - Middle child of the D'arlington family

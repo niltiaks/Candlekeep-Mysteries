@@ -1,5 +1,5 @@
 - Half-orc
-- [[Sylvia]]'s cousin on her mother's ([[Evelyn]]) side
+- [[Sylvia]]'s cousin on her mother's ([Evelyn](NPCs/Living/Evelyn.md)) side
 - [Max](NPCs/Deceased/Max.md) and [Sirbastien](NPCs/Living/Sirbastien.md)'s adopted sister
 - Youngest child of the D'arlington family
 - Mother is [Charlotte](NPCs/Living/Charlotte.md)

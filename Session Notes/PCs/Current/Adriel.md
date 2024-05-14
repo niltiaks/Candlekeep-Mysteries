@@ -1,7 +1,7 @@
 Party members: [[Sylvia]] [[India]] [Stalfor](PCs/Current/Stalfor.md)
 
 - Race: ??? Looks Human
-- Class: Life #Cleric of the Queen of the Summer Court ([[Titania]]), #Druid
+- Class: Life #Cleric of the Queen of the Summer Court ([Titania](NPCs/Living/Titania.md)), #Druid
 - As a child, was taken to Feywild by a firbolg named [Ronorin](NPCs/Living/Ronorin.md) after his village burned down
 - Parents are presumed dead
 - Just got here
