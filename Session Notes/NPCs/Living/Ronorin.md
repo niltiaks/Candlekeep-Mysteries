@@ -2,5 +2,4 @@
 - Firbold druid from the Feywild
 - Found Adriel as a child after his village was burned down and took him to "his new home"
 - Cast a blight upon the summer court, kind of an extremist??
-- Inadvertently killed Adriel's son, [[Mungan]]
-- 
+- Inadvertently killed Adriel's son, [[Mungan]] 
