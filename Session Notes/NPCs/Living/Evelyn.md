@@ -1,5 +1,5 @@
 - Wife of [[Salvatore]]
-- Mother of [[Caspian]] and [[Sylvia]]
+- Mother of [Caspian](NPCs/Living/Caspian.md) and [[Sylvia]]
 - Maiden name is D'arlington, comes from an extremely wealthy family
 - Her family initially funded SFC to kickstart the business
 - Has a stick up her ass

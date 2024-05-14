@@ -8,4 +8,4 @@
 - Designed the first firearms known to Waterdeep and perhaps even the Sword Coast, alongside his long-time friend Jimin
 - [[Evelyn]] D'arlington's family caught wind of this and provided all necessary funding to kickstart SFC
 - During this time Sal and Eve found themselves in an arranged marriage, and fell in love
-- Had their first child, [[Sylvia]], followed by [[Caspian]] a couple years later
+- Had their first child, [[Sylvia]], followed by [Caspian](NPCs/Living/Caspian.md) a couple years later
