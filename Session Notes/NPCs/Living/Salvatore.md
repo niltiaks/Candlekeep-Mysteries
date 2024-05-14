@@ -1,11 +1,12 @@
+# Salvatore Reid
 - Rags to riches for real
 - Lifelong besties with [Jimin](NPCs/Living/Jimin.md) Turco
 - Loves both of his children equally, could never pick a favourite
-	- Does have a soft spot for [[Sylvia]] though because of how her mother/his wife treated her growing up
+	- Does have a soft spot for [Sylvia](PCs/Past/Sylvia.md) though because of how her mother/his wife treated her growing up
 - Founder of the **Salvatore Firearm Company** 
 - Both parents died when he was a teenager, worked odd jobs trying to keep a roof over his head
 - As a young man, worked in design and production of cannons and wondered if it would be possible to design a "handheld cannon"
 - Designed the first firearms known to Waterdeep and perhaps even the Sword Coast, alongside his long-time friend Jimin
 - [Evelyn](NPCs/Living/Evelyn.md) D'arlington's family caught wind of this and provided all necessary funding to kickstart SFC
 - During this time Sal and Eve found themselves in an arranged marriage, and fell in love
-- Had their first child, [[Sylvia]], followed by [Caspian](NPCs/Living/Caspian.md) a couple years later
+- Had their first child, [Sylvia](PCs/Past/Sylvia.md), followed by [Caspian](NPCs/Living/Caspian.md) a couple years later

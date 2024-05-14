@@ -1,4 +1,5 @@
- - [[Sylvia]]'s cousin (distantly) on her mother's ([Evelyn](NPCs/Living/Evelyn.md)) side
+# Charlotte D'arlington
+ - [Sylvia](PCs/Past/Sylvia.md)'s cousin (distantly) on her mother's ([Evelyn](NPCs/Living/Evelyn.md)) side
  - 53-54 years old
  - Lilac gown, long gloves, gold jewellery
  - Fairly reserved, keeps to herself

@@ -1,4 +1,5 @@
-Party members: [[Sylvia]] [[India]] [[Basil]]
+# Vitari Brokrul
+Party members: [Sylvia](PCs/Past/Sylvia.md) [India](PCs/Current/India.md) [Basil](PCs/Past/Basil.md)
 
 - Aasimar
 - #Paladin

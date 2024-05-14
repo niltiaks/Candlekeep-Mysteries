@@ -1,4 +1,5 @@
-Party members: [[Adriel]] [[India]] [[Sylvia]]
+# Stalfor Svrare
+Party members: [Adriel](PCs/Current/Adriel.md) [India](PCs/Current/India.md) [Sylvia](PCs/Past/Sylvia.md) [Avalon](PCs/Current/Avalon.md)
 
 - #Artificer
 - From Phandalin

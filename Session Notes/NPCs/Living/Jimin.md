@@ -1,5 +1,6 @@
+# Jimin Turco
 - Rock gnome
-- Head engineer for Salvatore Firearm Company
+- Head engineer for [Salvatore](NPCs/Living/Salvatore.md) Firearm Company
 - Master tinkerer
 - Has a large family but his favourite granddaughter is [[Jennie]]
-- [[Sylvia]] views him as an uncle
+- [Sylvia](PCs/Past/Sylvia.md) views him as an uncle

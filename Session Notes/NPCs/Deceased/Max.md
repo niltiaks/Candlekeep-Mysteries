@@ -1,6 +1,6 @@
-- Full name is **Lord Maximillian D'arlington**
+# Lord Maximillian D'arlington
 - 27-28 years old
-- [[Sylvia]]'s cousin on her mother's ([Evelyn](NPCs/Living/Evelyn.md)) side
+- [Sylvia](PCs/Past/Sylvia.md)'s cousin on her mother's ([Evelyn](NPCs/Living/Evelyn.md)) side
 - Engaged to [Lysandrea](NPCs/Living/Lysandrea.md)
 - Oldest child of [Charlotte](NPCs/Living/Charlotte.md)
 - Two younger siblings, [Sirbastien](NPCs/Living/Sirbastien.md) and [Lillian](NPCs/Living/Lillian.md)

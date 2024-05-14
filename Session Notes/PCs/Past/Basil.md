@@ -1,4 +1,5 @@
-Party members: [[Sylvia]] [[India]] [[Vitari]] 
+# Basil Honeydew
+Party members: [Sylvia](PCs/Past/Sylvia.md), [India](PCs/Current/India.md), [Vitari](PCs/Past/Vitari.md)
 
 - Status: Deceased
 - Class: #Bard

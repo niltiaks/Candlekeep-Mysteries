@@ -1,4 +1,5 @@
-Party members: [[Sylvia]] [[India]] [Stalfor](PCs/Current/Stalfor.md)
+# Adriel Sebille
+Party members: [Sylvia](PCs/Past/Sylvia.md), [India](PCs/Current/India.md), [Stalfor](PCs/Current/Stalfor.md), [Avalon](PCs/Current/Avalon.md)
 
 - Race: ??? Looks Human
 - Class: Life #Cleric of the Queen of the Summer Court ([Titania](NPCs/Living/Titania.md)), #Druid
@@ -7,7 +8,7 @@ Party members: [[Sylvia]] [[India]] [Stalfor](PCs/Current/Stalfor.md)
 - Just got here
 - Long, brown hair, well kept beard
 - Wears studded leather armour with crystal amulet
-- When he first met the party he told India he was guided to Waterdeep to seek out India and Sylvia
+- When he first met the party he told [India](PCs/Current/India.md) he was guided to Waterdeep to seek out [India](PCs/Current/India.md) and [Sylvia](PCs/Past/Sylvia.md)
 - Has a mission to get to Baldur's Gate to help someone
 - Studies the constellations
 	- A few months before finding the party, he found something was amiss in the stars and needs to be corrected

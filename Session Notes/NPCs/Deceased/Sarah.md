@@ -1,4 +1,4 @@
-- #Commoner
+# Sarah
 - Status: Deceased
 - One of the servants of the Yellowcrest house ([Viallis](NPCs/Deceased/Viallis.md))
 - Lady [Maria](NPCs/Deceased/Maria.md), Viallis' wife empathized with Sarah's lack of education and taught her to write

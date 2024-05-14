@@ -1,5 +1,6 @@
-- Full name is Lysandrea Isillionthe
-- [[India]]'s cousin, used to adventure with her alongside some other friends
+
+# Lysandrea Isillionthe
+- [India](PCs/Current/India.md)'s cousin, used to adventure with her alongside some other friends
 - Engaged to [Max](NPCs/Deceased/Max.md)
 - Mother's name is [Galianne](NPCs/Living/Galianne.md) Isillionthe
 - Father died in a tragic accident choking on food at home while dining with Galianne

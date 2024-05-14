@@ -1,5 +1,5 @@
-- Full name Beth-Ann Silverspun
-- Went to Archaology school with [[India]]
+# Beth-Ann Silverspun
+- Went to Archeology school with [India](PCs/Current/India.md)
 - 6 ft. tall, honey blonde hair, high elf
 - A BULLY!!! BOOOOOOOOOOOOOOOO TOMATO TOMATO
 - Attempted to frame India of the destruction of an ancient artifact, a dagger made of bone
