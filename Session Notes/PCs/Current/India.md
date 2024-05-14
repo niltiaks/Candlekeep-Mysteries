@@ -3,7 +3,7 @@ Party members: [[Sylvia]] [[Vitari]] [[Basil]] [Stalfor](PCs/Current/Stalfor.md)
 - Class: #Monk, way of the Druken Fist
 - Went to university for archaeology in Luskan
 	- Luskan University, College of Archaeology
-- [[Charles]] is a very good childhood friend of India's, perhaps ex-lover???
+- [Charles](NPCs/Living/Charles.md) is a very good childhood friend of India's, perhaps ex-lover???
 	- Ran around a lot as children
 	- Still best friends
 - [[James]] Bouffay is a college friend

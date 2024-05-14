@@ -5,4 +5,4 @@
 - Was previously a captain of the Waterdeep City Guard but was fired after the events of the Sylvia Backstory quest
 - Now is on house arrest at the Reid manor
 - Working on repairing relationship with sister [[Sylvia]]
-- When he was a kid, he accidentally shot [[Jimin]]'s granddaughter in the arm, and now Jennie permanently wears a prosthetic
+- When he was a kid, he accidentally shot [Jimin](NPCs/Living/Jimin.md)'s granddaughter in the arm, and now Jennie permanently wears a prosthetic

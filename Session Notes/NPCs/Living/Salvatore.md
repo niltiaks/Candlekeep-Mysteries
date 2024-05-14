@@ -1,5 +1,5 @@
 - Rags to riches for real
-- Lifelong besties with [[Jimin]] Turco
+- Lifelong besties with [Jimin](NPCs/Living/Jimin.md) Turco
 - Loves both of his children equally, could never pick a favourite
 	- Does have a soft spot for [[Sylvia]] though because of how her mother/his wife treated her growing up
 - Founder of the **Salvatore Firearm Company** 
