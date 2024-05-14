@@ -14,4 +14,4 @@ Party members: [[Sylvia]] [[India]] [Stalfor](PCs/Current/Stalfor.md)
 	- Holds crystal over candle fire and constellations appear and he was like "this star moved we gotta fix it"
 -   He's got a dumpy
 - Has a wife and two young children
-- Has two horses, [[Scooby]] and [[Shaggy]]
+- Has two horses, [Scooby](NPCs/Living/Scooby.md) and [Shaggy](NPCs/Living/Shaggy.md)
