@@ -2,10 +2,10 @@
 - 27-28 years old
 - [[Sylvia]]'s cousin on her mother's ([[Evelyn]]) side
 - Engaged to [Lysandrea](NPCs/Living/Lysandrea.md)
-- Oldest child of [[Charlotte]]
-- Two younger siblings, [[Sirbastien]] and [[Lillian]]
-- Manservant is a tiefling male named [[Milton]] Fiends
-- Might have feelings for his ex, [[Galianne]], who is also Lysandrea's mother
+- Oldest child of [Charlotte](NPCs/Living/Charlotte.md)
+- Two younger siblings, [Sirbastien](NPCs/Living/Sirbastien.md) and [[Lillian]]
+- Manservant is a tiefling male named [Milton](NPCs/Living/Milton.md) Fiends
+- Might have feelings for his ex, [Galianne](NPCs/Living/Galianne.md), who is also Lysandrea's mother
 	- [James](NPCs/Living/James.md) told the party this rumour
 	- They were an item for a while, and when they broke up Max wouldn't tell [James](NPCs/Living/James.md) why
 - In business with someone named **Ruby Eye** looking to start a mithril mining operation in the area that the wedding is taking place

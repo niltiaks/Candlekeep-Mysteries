@@ -4,4 +4,4 @@
 - Her family initially funded SFC to kickstart the business
 - Has a stick up her ass
 - Hates her daughter
-- First cousins with [[Charlotte]]'s late husband, the previous Lord D'arlington
+- First cousins with [Charlotte](NPCs/Living/Charlotte.md)'s late husband, the previous Lord D'arlington

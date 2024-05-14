@@ -2,9 +2,9 @@
 - 22-23 years old
 - [Max](NPCs/Deceased/Max.md) and [[Lillian]]'s brother
 - Middle child of the D'arlington family
-- Mother is [[Charlotte]]
+- Mother is [Charlotte](NPCs/Living/Charlotte.md)
 - Plans on going on a solo grand tour around Eastern Faraway, maybe even as far as the Sword Coast
 - Has middle child syndrome real bad
 - Trained in the sword
-- Seemed uncommonly withdrawn lately (info came from Rosalinda)
+- Seemed uncommonly withdrawn lately (info came from [Rosalinda](NPCs/Living/Rosalinda.md))
 - Became very close friends with [[Adriel]] at the wedding

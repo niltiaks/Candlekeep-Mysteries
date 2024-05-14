@@ -1,6 +1,6 @@
 - [[India]]'s older sister (second oldest in the family)
 - India said she does archery
-- Cousins with [Lysandrea](NPCs/Living/Lysandrea.md), aunt is [[Galianne]]
+- Cousins with [Lysandrea](NPCs/Living/Lysandrea.md), aunt is [Galianne](NPCs/Living/Galianne.md)
 - Very bubbly and cute, I (Kaitlin) love her to death
 - Has been adventuring recently up the sword coast
 - Didn't want to stay with the family and work on ales forever 
