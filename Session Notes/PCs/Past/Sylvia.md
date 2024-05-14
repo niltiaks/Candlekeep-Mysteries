@@ -1,7 +1,7 @@
 # Sylvia Reid
 Party members: [India](PCs/Current/India.md), [Vitari](PCs/Past/Vitari.md), [Basil](PCs/Past/Basil.md), [Stalfor](PCs/Current/Stalfor.md), [Adriel](PCs/Current/Adriel.md) 
 
-- #Fighter (Gunslinger), #Rogue (Assassin)
+- Fighter (Gunslinger), Rogue (Assassin)
 - Comes from the very wealthy Reid family, known for their production of Firearms
 - Father: [Salvatore](NPCs/Living/Salvatore.md) Reid, loves her
 - Mother: [Evelyn](NPCs/Living/Evelyn.md) Reid, hates her

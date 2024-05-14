@@ -2,7 +2,7 @@
 Party members: [Sylvia](PCs/Past/Sylvia.md), [India](PCs/Current/India.md), [Vitari](PCs/Past/Vitari.md)
 
 - Status: Deceased
-- Class: #Bard
+- Class: Bard
 - Race: Human
 - Was previously a human
 - Ventured into the Feywild and got tricked, and was subsequently turned into a Fairy and sent back to Faerun

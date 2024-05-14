@@ -1,7 +1,7 @@
 # India Paehl'Aile
 Party members: [Sylvia](PCs/Past/Sylvia.md), [Vitari](PCs/Past/Vitari.md), [Basil](PCs/Past/Basil.md), [Stalfor](PCs/Current/Stalfor.md), [Adriel](PCs/Current/Adriel.md) 
 
-- Class: #Monk, way of the Drunken Fist
+- Class: Monk, way of the Drunken Fist
 - Went to university for archaeology in Luskan
 	- Luskan University, College of Archaeology
 - [Charles](NPCs/Living/Charles.md) is a very good childhood friend of India's, perhaps ex-lover???
