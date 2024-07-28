@@ -1,5 +1,5 @@
 # Sylvia Reid
-Party members: [India](PCs/Current/India.md), [Vitari](PCs/Past/Vitari.md), [Basil](PCs/Past/Basil.md), [Stalfor](PCs/Current/Stalfor.md), [Adriel](PCs/Current/Adriel.md) 
+Party members: [India](PCs/Current/India.md), [Vitari](PCs/Past/Vitari.md), [Basil](PCs/Past/Basil.md), [Stalfor](PCs/Current/Stalfor.md), [Adriel](Adriel.md) 
 
 - Fighter (Gunslinger), Rogue (Assassin)
 - Comes from the very wealthy Reid family, known for their production of Firearms

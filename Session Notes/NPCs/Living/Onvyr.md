@@ -5,4 +5,4 @@
 - Familiar with [Sylvia](PCs/Past/Sylvia.md) and her family
 - Partner's name is [Duke](NPCs/Living/Duke.md), human male
 - Owns a library
-- Quest giver for the party ([India](PCs/Current/India.md), [Adriel](PCs/Current/Adriel.md), [Stalfor](PCs/Current/Stalfor.md), [Avalon](PCs/Current/Avalon.md))
+- Quest giver for the party ([India](PCs/Current/India.md), [Adriel](Adriel.md), [Stalfor](PCs/Current/Stalfor.md), [Avalon](PCs/Current/Avalon.md))

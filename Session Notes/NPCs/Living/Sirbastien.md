@@ -8,4 +8,4 @@
 - Has middle child syndrome real bad
 - Trained in the sword
 - Seemed uncommonly withdrawn lately (info came from [Rosalinda](NPCs/Living/Rosalinda.md))
-- Became very close friends with [Adriel](PCs/Current/Adriel.md) at the wedding
+- Became very close friends with [Adriel](Adriel.md) at the wedding
