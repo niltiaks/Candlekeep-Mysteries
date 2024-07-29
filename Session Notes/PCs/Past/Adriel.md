@@ -3,7 +3,7 @@ Party members: [Sylvia](PCs/Past/Sylvia.md), [India](PCs/Current/India.md), [Sta
 
 - Race: ??? Looks Human
 - Class: Stars Druid, Life Cleric of the Queen of the Summer Court ([Titania](NPCs/Living/Titania.md))
-- As a child, was taken to Feywild by a firbolg named [Ronorin](NPCs/Living/Ronorin.md) after his village burned down
+- As a child, was taken to Feywild by a firbolg named [Ronorin](Ronorin.md) after his village burned down
 - Parents are presumed dead
 - Just got here
 - Long, brown hair, well kept beard
