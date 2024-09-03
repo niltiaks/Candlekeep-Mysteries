@@ -4,4 +4,4 @@ Party members: [Sylvia](PCs/Past/Sylvia.md) [India](PCs/Current/India.md) [Basil
 - Aasimar
 - Paladin
 - Golden eyes, dark hair, super hot
-- Left the party, now adventures with druid [Aerryn](NPCs/Living/Aerryn.md) Sylvaranth in their quest for godhood
+- Left the party, now adventures with druid [Aerryn](Aerryn.md) Sylvaranth in their quest for godhood
