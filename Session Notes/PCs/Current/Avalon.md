@@ -3,5 +3,5 @@
 - Race: Half-elf (custom origin)
 - Class: Scribes Wizard, hella cursed mode
 - Before joining skinny legends, was part of an adventuring party where they were attacked on their way back from a quest, were attacked by [Aerryn](Aerryn.md) and [Vitari](PCs/Past/Vitari.md), [Avalon](PCs/Current/Avalon.md) was left alive as the example
-- [Rowan](NPCs/Living/Rowan.md) is ex-fiancé
+- [Rowan](Rowan.md) is ex-fiancé
 - Blackstaff apprentice under [Vajra](NPCs/Living/Vajra.md)
