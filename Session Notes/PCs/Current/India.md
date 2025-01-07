@@ -4,7 +4,7 @@ Party members: [Sylvia](PCs/Past/Sylvia.md), [Vitari](PCs/Past/Vitari.md), [Basi
 - Class: Monk, way of the Drunken Fist
 - Went to university for archaeology in Luskan
 	- Luskan University, College of Archaeology
-- [Charles](NPCs/Living/Charles.md) is a very good childhood friend of India's, perhaps ex-lover???
+- [Charles](NPCs/Living/Charles.md) is a very good childhood friend of [India](PCs/Current/India.md)'s, perhaps ex-lover???
 	- Ran around a lot as children
 	- Still best friends
 - [James](NPCs/Living/James.md) Bouffay is a college friend
