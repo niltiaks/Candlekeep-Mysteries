@@ -1,6 +1,6 @@
 # Rita
 - [India](PCs/Current/India.md)'s older sister (second oldest in the family)
-- India said she does archery
+- [India](PCs/Current/India.md) said she does archery
 - Cousins with [Lysandrea](NPCs/Living/Lysandrea.md), aunt is [Galianne](NPCs/Living/Galianne.md)
 - Very bubbly and cute, I (Kaitlin) love her to death
 - Has been adventuring recently up the sword coast

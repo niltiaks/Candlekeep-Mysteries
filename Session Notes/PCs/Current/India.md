@@ -10,9 +10,9 @@ Party members: [Sylvia](PCs/Past/Sylvia.md), [Vitari](PCs/Past/Vitari.md), [Basi
 - [James](NPCs/Living/James.md) Bouffay is a college friend
 	- After college [James](NPCs/Living/James.md) went to bard school
 - [Beth-Ann](NPCs/Living/Beth-Ann.md) is arch nemesis from Archaeology school
-	- Beth-Ann attempted to frame India for destruction of an ancient artifact (dagger carved out of bone)
-	- A crime of passion? No. Retaliation. India was bouncer at the campus tavern, and on several occasions had to escort Beth-Ann and her terrible friends out.
-	- India got off clean but one of Beth-Ann's friends took the heat for her
+	- Beth-Ann attempted to frame [India](PCs/Current/India.md) for destruction of an ancient artifact (dagger carved out of bone)
+	- A crime of passion? No. Retaliation. [India](PCs/Current/India.md) was bouncer at the campus tavern, and on several occasions had to escort Beth-Ann and her terrible friends out.
+	- [India](PCs/Current/India.md) got off clean but one of Beth-Ann's friends took the heat for her
 	- Fuckin bitch
 - Middle child of 5 kids; three sisters and one brother
 	- [Rita](NPCs/Living/Rita.md) (second eldest) adventures too, ranger(?), said she does archery.
