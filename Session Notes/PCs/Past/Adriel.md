@@ -1,6 +1,7 @@
 # Adriel Sebille
 Party members: [Sylvia](PCs/Past/Sylvia.md), [India](PCs/Current/India.md), [Stalfor](PCs/Current/Stalfor.md), [Avalon](PCs/Current/Avalon.md)
 
+- Lord of Beasts, member of Seelie Court
 - Race: ??? Looks Human
 - Class: Stars Druid, Life Cleric of the Queen of the Summer Court ([Titania](NPCs/Living/Titania.md))
 - As a child, was taken to Feywild by a firbolg named [Ronorin](Ronorin.md) after his village burned down
